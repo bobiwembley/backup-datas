@@ -5,4 +5,5 @@ two scripts, in bash languages; very simples to backup some datas on distant ser
 with crontab.
 
 ##How to get 
+git clone 
 
